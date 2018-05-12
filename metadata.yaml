@@ -1,0 +1,32 @@
+_repo: La-Vie--lectrique_35103
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35103-h/images/back-cover.jpg
+creator:
+  author:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- FR Science fiction
+- Precursors of Science Fiction
+gutenberg_issued: '2011-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35103'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+title: La Vie Électrique
+url: http://www.gutenberg.org/ebooks/35103
